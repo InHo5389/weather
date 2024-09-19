@@ -1,4 +1,10 @@
+## 날씨 일기 프로젝트
+### 2021년 구글 올해를 빛낸 일상생활 앱 글로벌 다운로드 100만회 이상 기록한 하루콩 어플을 비슷하게 만들어본다.
+![image](https://github.com/user-attachments/assets/ddd737a6-043f-400f-ba67-3c337b9b33c7)
+
 날씨 일기를 작성/조회/수정/삭제 하는 백엔드를 구현<br/>
+
+### API 명세
 
 최종 구현 API 리스트<br/>
 ✅ POST / create / diary<br/>
